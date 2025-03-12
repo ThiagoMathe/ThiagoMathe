@@ -6,12 +6,11 @@ Atualmente, estou focado em aprimorar minhas habilidades de programação e cons
 <div align="center">
   <a href="https://github.com/ThiagoMathe">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMathe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMathe&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMathe&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
 ## Linguagens e Ferramentas
-Aqui estão algumas das tecnologias que tenho explorado recentemente:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,4 +29,7 @@ Além disso, tenho experiência em trabalhar com bancos de dados, incluindo:
 - PostgreSQL
 - MongoDB
 
+## Contato
 Vamos construir algo incrível juntos! 🚀
+
+- [LinkedIn](www.linkedin.com/in/thiago-matheus-honorato-579ba6230)
